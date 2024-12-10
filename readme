@@ -1,0 +1,6 @@
+
+first download the source code of  the project
+make sure you have all the modules anD file configurations ready 
+connect your database 
+run server using nodemon index.js
+run client using npm run start
